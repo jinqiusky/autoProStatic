@@ -1,5 +1,7 @@
 127.0.0.1       localhost
 ::1             ip6-localhost
 autojs.flyme.cloudns.biz autojs.org
+1.12.243.165 pro.autojs.org
 autojs.flyme.cloudns.biz pro.autojs.org
+1.12.243.165 get.baibaoyun.com
 
