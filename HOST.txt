@@ -1,7 +1,5 @@
 127.0.0.1       localhost
 ::1             ip6-localhost
-autojs.flyme.cloudns.biz autojs.org
-autojs.flyme.cloudns.biz pro.autojs.org
 74.48.73.58 pro.autojs.org
 
 
