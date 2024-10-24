@@ -1,7 +1,7 @@
 127.0.0.1       localhost
 ::1             ip6-localhost
 
-74.48.73.58 pr1o.autojs.org
+116.204.133.181 pro.autojs.org
 
 
 
